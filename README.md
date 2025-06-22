@@ -28,7 +28,6 @@ Using:
 | `a320_app.py` | Streamlit web app for making predictions |
 | `A320_data.xlsx` | Synthetic dataset of 200 rows for A320 flight scenarios |
 | `*.joblib` | Saved machine learning models |
-| `A320_Project_Summary_*.pdf` | Project report with model info and usage steps |
 | `README.md` | Project documentation (this file) |
 
 ---
